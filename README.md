@@ -1,5 +1,7 @@
 # 🐍 Python Functions – Complete Practice & Interview Guide
 
+<img width="1416" height="541" alt="image" src="https://github.com/user-attachments/assets/8f9d4e1f-fa63-4151-a0ec-7838a7d454d8" />
+
 This repository contains the **Python function concepts, different types of arguments and coding problems** that can be passed to a function in Python, with **simple examples**.  
 It is useful for **students, M.C.A./B.tech./B.C.A./B.Sc. exams, and interview preparation**.
 
